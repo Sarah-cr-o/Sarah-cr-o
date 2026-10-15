@@ -99,8 +99,8 @@
 
   <br /><br />
 
-  <!-- TROPHIES -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarah-cr-o&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=false&border=ff1493" alt="Sarah's GitHub Trophies" />
+<!-- TROPHIES (Versão Estável) -->
+<img src="https://github-profile-trophy.vercel.app/?username=Sarah-cr-o&theme=flat&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Sarah's GitHub Trophies" />
 
 </div>
 
@@ -110,8 +110,9 @@
 
 ### 📈 Gráfico de Atividades
 
+<!-- GRÁFICO DE ATIVIDADES (Versão Estável) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarah-cr-o&bg_color=212529&color=ff1493&line=ff69b4&point=ffffff&area=true&hide_border=false&border=ff1493" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarah-cr-o&theme=github-compact&custom_title=Grafico%20de%20Atividades&hide_border=false&border=ff1493&color=ff1493" width="100%" alt="Activity Graph" />
 </div>
 
 <br />
