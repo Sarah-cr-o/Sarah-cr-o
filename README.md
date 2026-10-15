@@ -4,10 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=212529&height=250&section=header&text=Sarah%20Cristina&fontSize=65&fontColor=ff1493&animation=fadeIn&stroke=ff69b4&strokeWidth=1.5" width="100%" alt="Banner Sarah Cristina"/>
 
 <!-- TYPING ANIMATION -->
-<h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack+🎀;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonada+por+Dados+%26+C;UFG+-+Universidade+Federal+de+Goi%C3%A1s" alt="Typing SVG" />
-  </a>
+<!-- TYPING ANIMATION (Versão Corrigida) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack+%F0%9F%8E%80;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonada+por+Dados+e+C;UFG+-+Universidade+Federal+de+Goi%C3%A1s" alt="Typing SVG" />
 </h1>
 
 <p align="center">
