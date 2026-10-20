@@ -99,22 +99,7 @@
 
   <br /><br />
 
-  <!-- Troféus do GitHub (Versão Estável) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarah-cr-o&theme=flat&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Sarah's GitHub Trophies" />
-
-</div>
-
-<br />
-
----
-
-<!-- 📈 GRÁFICO DE ATIVIDADES (Versão Estável) -->
-### 📈 Gráfico de Atividades
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarah-cr-o&theme=github-compact&hide_border=false&border=ff1493&color=ff1493" width="100%" alt="Activity Graph" />
-</div>
-
+ 
 ---
 
 ### 🐍 Snake Contribution Game
