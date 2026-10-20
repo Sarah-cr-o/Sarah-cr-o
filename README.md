@@ -15,13 +15,13 @@
 
 <!-- REDES SOCIAIS -->
 <p align="center">
-  <a href="SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/sarah-cristina-37a30737b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1493&color=212529" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/SEU_USUARIO_AQUI" target="_blank">
+  <a href="https://www.instagram.com/sarah_cr_o/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF1493&color=212529" alt="Instagram" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:cristinasarah@discente.ufg.br">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF1493&color=212529" alt="Email" />
   </a>
 </p>
