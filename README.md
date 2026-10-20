@@ -35,8 +35,8 @@
 ### 🎀 Sobre Mim
 
 > 🎓 **Formação:** Graduanda em **Ciência da Computação** pela *Universidade Federal de Goiás (UFG)*.  
-> 💻 **Atuação:** Desenvolvedora Full Stack com foco contínuo em **Ciência de Dados** e linguagens de baixo nível.  
-> 🚀 **Mentalidade:** Buscando aprender algo novo todos os dias e construir soluções com impacto.
+> 💻 **Atuação:** Desenvolvedora Full Stack com foco em **Ciência de Dados** e Inteligência Artificial.  
+> 🚀 **Objetivos:** Buscando aprender algo novo todos os dias e construir soluções úteis à sociedade.
 
 <br />
 
@@ -48,7 +48,7 @@
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens & Core** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Data Science](https://img.shields.io/badge/Ci%C3%AAncia_de_Dados-FF1493?style=for-the-badge&logo=python&logoColor=white) |
+| **Linguagens** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Data Science](https://img.shields.io/badge/Ci%C3%AAncia_de_Dados-FF1493?style=for-the-badge&logo=python&logoColor=white) |
 | **Controle de Versão** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=FF1493) |
 
 </div>
@@ -66,7 +66,7 @@
     <td width="100%" valign="top">
       <h3 align="center">🎀 LI²A TJGO</h3>
       <p align="center">
-        Laboratório de Inovação e Inteligência Artificial do Tribunal de Justiça do Estado de Goiás.
+        Laboratório Interinstitucional de Inteligência Artificial do Tribunal de Justiça do Estado de Goiás.
       </p>
       <p align="center">
         <a href="LINK_DO_REPOSITORIO_LI2A_TJGO">
