@@ -69,7 +69,7 @@
         Laboratório Interinstitucional de Inteligência Artificial do Tribunal de Justiça do Estado de Goiás.
       </p>
       <p align="center">
-        <a href="[LINK_DO_REPOSITORIO_LI2A_TJGO](https://github.com/Li2a-Ejug)">
+        <a href="https://github.com/Li2a-Ejug">
           <img src="https://img.shields.io/badge/Ver_Projeto-FF1493?style=for-the-badge&logoColor=white&logo=github" alt="Projeto LI2A TJGO"/>
         </a>
       </p>
