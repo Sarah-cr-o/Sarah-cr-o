@@ -6,7 +6,7 @@
 <!-- TYPING ANIMATION -->
 <!-- TYPING ANIMATION (Versão Corrigida) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack+%F0%9F%8E%80;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonada+por+Dados+e+C;UFG+-+Universidade+Federal+de+Goi%C3%A1s" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack+%F0%9F%8E%80;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;UFG+-+Universidade+Federal+de+Goi%C3%A1s" alt="Typing SVG" />
 </h1>
 
 <p align="center">
